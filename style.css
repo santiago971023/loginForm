@@ -1,0 +1,45 @@
+
+:root{
+    --dark: #161c17;
+
+
+
+}
+.img-fluid{
+    width: 100px;
+    height: 100px;
+}
+
+label{
+    color: white;
+}
+
+.bg-dark-x{
+    background-color: var(--dark);
+}
+
+.form-control, .btn{
+    min-height: 3.125rem;
+    line-height: initial;
+}
+
+.img_container{
+    background-image: url(media/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+/* --------------HOME PAGE------------------*/
+header{
+    background-color: royalblue;
+}
+
+aside{
+    background-color: coral;
+}
+
+.color1{
+    background-color: royalblue;
+}
